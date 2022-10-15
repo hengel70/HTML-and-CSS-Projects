@@ -1,7 +1,7 @@
 # HTML-and-CSS-Projects
 
-Projects
+<h2>Projects</h2>
 
-Space Station Site
-Movie Theater Site
+<p>Space Station Site</p>
+<p>Movie Theater Site</p>
 
